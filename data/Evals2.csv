@@ -1,0 +1,249 @@
+score,rank,gender,age,cls_perc_eval,bty_avg
+4.3,tenured,male,64,53.84615,4.167
+3.8,tenured,male,70,34.78261,3
+4.2,tenured,female,43,68.62745,3.333
+4.2,tenured,female,54,100,6.833
+4.6,tenured,male,39,93.33334,5.5
+4.7,tenured,male,35,91.30434,4.833
+4.7,tenured,male,60,75,3.667
+4.6,tenure track,male,42,86.66666,4
+4.1,teaching,male,47,84.21053,5.5
+4.2,tenured,male,70,53.125,3
+4,tenure track,female,47,92.30769,4.333
+4.2,tenured,male,49,83.78378,4
+4.2,tenure track,female,47,100,4.333
+4.8,teaching,male,50,90.90909,3.333
+4.5,tenure track,male,43,94.44444,3.5
+4,tenured,male,39,48.73418,5.5
+4.5,tenured,female,43,92.85714,3.333
+3.6,tenure track,female,37,80.76923,5.5
+3.5,tenure track,female,37,96.66666,5.5
+4.1,teaching,male,48,74.07407,4.333
+4.7,tenured,male,64,71.42857,4.167
+4.7,tenure track,male,43,84.61539,3.5
+3.8,tenure track,female,35,33.33333,7.833
+4.2,tenured,male,45,94.5946,4.167
+4.5,tenure track,male,33,43.22581,5.833
+4.5,tenured,female,43,76.92308,3.333
+4,tenured,male,47,74.07407,2.333
+4.2,tenure track,male,34,80,6.667
+3.7,tenure track,female,47,92.59259,4.333
+3.5,tenured,female,43,65.41354,3.333
+4,tenured,male,42,60,4.833
+4.5,tenure track,male,32,72.94118,6.833
+4.5,tenure track,female,47,95.2381,4.333
+4.4,tenured,male,45,84.375,4.167
+3.6,tenured,male,47,88.23529,2.333
+4.4,tenured,male,39,93.10345,5.5
+4.7,tenured,male,60,61.53846,3.667
+4.2,teaching,male,37,88.23529,4.333
+3.8,tenured,male,52,83.33334,4.833
+3.8,teaching,male,63,66.66666,4.333
+4.2,tenured,male,62,92.30769,3
+4.2,tenured,male,45,25.42373,4.167
+4.6,tenure track,female,33,59.18367,4.667
+4.3,tenured,male,45,45.22613,4.167
+4.4,tenure track,male,32,90.90909,3.833
+3.8,tenured,male,49,83.33334,4
+4.5,tenured,female,43,100,3.333
+4.7,tenure track,female,33,90.90909,5.833
+4.7,tenured,female,54,77.77778,6.833
+4.5,tenure track,male,43,100,3.5
+4,tenured,male,62,50.95541,3
+4.7,tenured,male,47,66.66666,2.667
+4.4,teaching,male,47,93.33334,5.5
+4.2,tenure track,female,47,96,4.333
+3.8,tenured,male,62,37.19512,3
+3.5,tenure track,male,33,92.30769,7
+4.7,teaching,male,50,86.36364,3.333
+3.8,teaching,male,37,71.42857,4.333
+3.4,tenured,female,51,70.14925,5.167
+3.5,tenured,female,62,81.48148,3.5
+3.8,tenured,male,52,80,4.833
+4.6,tenured,male,60,80,3.667
+4.6,tenure track,female,33,87.5,4.667
+4.4,tenured,male,62,70,3
+4.7,tenured,male,62,58.04196,5.5
+4.4,teaching,male,48,63.75839,4.333
+3.4,tenured,female,43,58.86525,3.333
+4.1,tenured,female,51,85.89744,6.333
+4.7,teaching,male,50,84,3.333
+4.7,tenure track,male,43,60,3.5
+4.3,tenured,male,58,47.01987,3.833
+3.8,tenured,male,49,51.72414,4
+4.6,tenured,male,62,86.66666,3
+4.5,tenured,male,62,61.58941,5.5
+4.5,tenured,male,60,78.57143,3.667
+4.5,tenure track,male,33,70.83334,5.833
+4.7,tenure track,male,33,96.77419,7
+4,tenure track,female,34,57.5,1.667
+4.7,tenure track,male,43,53.57143,3.5
+4.5,teaching,female,47,94.11765,6.667
+4.6,tenured,male,35,88,4.833
+4.2,tenured,male,47,81.25,2.333
+3.6,tenured,female,62,56.25,3.5
+4.2,teaching,male,37,61.90476,4.333
+4.5,tenured,male,62,54.79452,5.5
+4.5,tenured,female,51,85,6.333
+4.1,tenured,male,47,80.76923,2.333
+4.4,teaching,female,38,81.08108,2.5
+4.1,teaching,female,47,88.23529,6.667
+4.4,tenured,female,43,75.67567,3.333
+3.9,tenured,female,43,45.63107,4.167
+4.2,tenured,male,52,64.28571,4.833
+4.3,teaching,male,63,65.11628,4.333
+4.7,tenure track,female,34,76.92308,7.833
+4.2,teaching,male,48,60.60606,4.333
+4.8,teaching,male,47,83.33334,5.5
+4.7,teaching,male,47,58.62069,5.5
+4.3,tenured,male,59,87.5,3
+4.5,tenure track,male,43,76.92308,3.5
+4.1,tenure track,female,34,58.88889,1.667
+3.8,tenured,male,58,76.59574,3.833
+3.9,tenure track,female,35,39.81482,7.833
+4.5,tenure track,female,33,85,4.667
+3.6,teaching,female,47,76.19048,6.667
+4.5,tenured,male,60,66.66666,3.667
+4.6,tenured,female,43,51.42857,3.333
+3.3,tenured,female,62,73.68421,3.5
+4.6,teaching,male,37,96,4.333
+3.8,tenured,male,73,70.58823,3
+4,tenured,male,47,81.25,2.333
+4.5,tenure track,male,32,60.46511,6.833
+4.3,teaching,male,47,75,5.5
+4.4,tenure track,female,33,25,4.667
+4.5,teaching,male,50,70.83334,3.333
+4.8,teaching,male,47,90.90909,5.5
+4.5,teaching,female,47,100,6.667
+4.5,tenured,male,64,62.5,4.167
+3.8,tenure track,male,34,57.14286,6.667
+4.4,tenured,male,52,81.25,4.833
+4.2,tenure track,female,34,82.5,7.833
+3.4,tenure track,female,47,96.15385,4.333
+4.1,tenured,male,49,62.22222,6.5
+3.7,teaching,male,63,48.93617,4.333
+3.9,tenured,female,52,71.42857,6
+4.2,tenured,male,47,71.42857,2.667
+3.8,tenured,male,49,85.18519,4
+4,teaching,male,63,80,4.333
+4.3,tenured,female,43,76.47059,3.333
+4.5,tenure track,female,33,66.66666,5.833
+4.6,tenured,male,62,60.76923,5.5
+4.8,teaching,male,47,80,5.5
+3.6,tenure track,female,37,65.38461,5.5
+4.1,tenured,female,52,75.38461,6.5
+4.5,tenured,male,70,35.07463,3
+4.7,tenured,male,39,80,5.5
+4.2,teaching,male,48,73.68421,4.333
+4.7,tenured,male,60,73.52941,3.667
+4.6,tenure track,female,33,63.63636,5.833
+4.2,tenured,male,42,70,4.833
+4.7,tenure track,female,33,100,5.833
+4.7,tenured,female,52,100,4.5
+4.5,tenured,male,64,62.5,4.167
+4.3,tenured,male,73,76.47059,3
+3.6,tenured,male,47,64.28571,2.333
+4.4,tenured,male,73,76.92308,3
+3.8,tenure track,female,47,92.30769,4.333
+4.6,teaching,male,47,84.21053,5.5
+3.3,tenure track,female,47,92.30769,4.333
+4.5,tenure track,male,32,75.24753,6.833
+4,tenured,male,47,100,2.333
+3.9,tenure track,male,33,86.66666,7
+4,tenure track,male,32,41.07143,3.667
+4.5,teaching,male,50,88.46154,3.333
+4.4,teaching,female,38,60,2.5
+4.2,tenured,male,49,64.28571,6.5
+3.9,tenured,female,52,50.79365,6.5
+4.1,tenure track,female,34,56.16438,1.667
+4.2,tenure track,female,34,59.34066,1.667
+4.5,tenure track,male,43,86.36364,3.5
+4.2,tenure track,female,34,56.81818,1.667
+4.3,tenure track,female,47,100,4.333
+4.5,tenure track,female,33,100,5.833
+4.4,teaching,male,48,80.71429,4.333
+4.4,tenured,male,60,42.85714,3.667
+4.1,tenure track,male,32,34.27419,3.667
+4.4,tenure track,female,33,86.20689,4.667
+4.6,teaching,female,47,88.23529,6.667
+4.1,tenured,female,51,81.81818,6.333
+4.5,tenured,male,70,10.41667,3
+4.2,tenured,male,42,60,4.833
+4.4,tenured,male,62,64.53901,5.5
+3.9,tenured,female,52,70.45454,6.5
+4.6,tenured,male,52,100,4.833
+4.3,tenured,male,62,76.92308,3
+3.8,tenure track,male,34,66.66666,6.667
+4.5,tenured,male,59,85,3
+4.4,tenured,male,58,52.83019,3.833
+4.4,tenured,male,42,78.43137,4.833
+3.9,tenured,female,43,67.32284,3.333
+4.1,tenured,female,47,79.16666,5.167
+4,tenured,male,42,70.17544,4.833
+4.5,tenured,female,54,80.76923,6.833
+4.4,teaching,male,63,78.57143,4.333
+4.1,tenure track,female,47,100,4.333
+4,teaching,female,38,45.3125,2.5
+3.3,tenure track,female,37,82.14286,5.5
+3.5,tenured,female,51,64.28571,6.333
+4.6,tenured,male,62,92,3
+4.5,tenured,male,45,74.53416,4.167
+3.9,tenured,male,73,76.19048,3
+4.4,teaching,male,63,77.77778,4.333
+4.4,teaching,female,38,58.06452,2.5
+3.8,tenured,female,47,56.71642,5.167
+4.5,teaching,male,47,76.19048,5.5
+4.4,tenure track,male,43,60,3.5
+4.5,tenured,male,58,59.83607,3.833
+3.9,tenured,male,62,51.08696,3
+4,tenure track,male,32,39.67611,3.667
+3.7,tenured,male,51,56.92308,3.333
+4.4,tenure track,female,47,100,4.333
+4.5,tenured,male,62,61.75439,5.5
+4.1,tenured,male,42,66.66666,4.833
+4.5,tenure track,male,32,74.24242,6.833
+3.3,tenured,male,59,88.63636,3
+4.5,tenured,male,35,85.96491,4.833
+4.3,tenured,male,58,68.88889,3.833
+4.7,tenured,male,64,46.80851,4.167
+4,teaching,male,63,75,4.333
+4.1,tenured,male,42,43.85965,4.833
+4.4,teaching,male,48,62.5,4.333
+4,tenured,female,52,72.72727,6
+4.5,tenured,male,54,94.11765,2.333
+3.8,teaching,female,38,74.19355,2.5
+4.3,tenured,male,54,100,2.333
+4.7,tenured,female,54,93.75,6.833
+4.5,teaching,male,47,95.65218,5.5
+4.6,tenured,male,64,73.33334,4.167
+2.9,tenure track,female,41,83.33334,5.167
+4.5,teaching,female,38,48.52941,2.5
+4.5,tenured,male,64,75,4.167
+4.2,tenured,male,51,100,3.333
+4.2,tenured,male,39,34.95935,5.5
+4.2,tenure track,female,34,55.88235,1.667
+4.2,teaching,male,48,58.55856,4.333
+4.7,tenured,male,62,56.98529,5.5
+4.2,tenured,male,54,66.66666,2.333
+4.7,tenure track,female,33,71.42857,5.833
+4.7,tenured,female,52,82.35294,4.5
+4.1,tenured,male,47,92.30769,2.333
+4,tenured,male,52,68.75,4.833
+4.2,tenure track,male,32,42.85714,6.833
+4.5,tenure track,male,32,87.40157,6.833
+4.6,tenured,male,60,68.88889,3.667
+3.6,tenure track,female,35,62.5,7.833
+4.6,tenure track,male,32,69.90292,3.833
+4.2,tenured,female,52,54.95496,4.5
+4.6,teaching,male,37,80,4.333
+4.7,tenured,male,52,75,4.833
+4.3,teaching,male,48,66.66666,4.333
+4,tenured,female,54,80,6.833
+3.5,tenured,male,47,83.33334,2.667
+4.4,tenure track,female,47,70,4.333
+3.4,tenure track,female,47,96.2963,4.333
+4.5,tenured,male,45,69.69697,4.167
+3.2,tenured,female,43,48.94737,4.167
+4.5,tenure track,male,43,73.33334,3.5
+4.2,tenured,female,42,62.19512,6.167
+4.3,tenured,male,35,82.35294,4.833
