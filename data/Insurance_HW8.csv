@@ -1,0 +1,121 @@
+"KIDSDRIV","AGE","HOMEKIDS","YOJ","PARENT1","MSTATUS","SEX","EDUCATION","JOB","TRAVTIME","CAR_USE","TIF","CAR_TYPE","RED_CAR","CLM_FREQ","REVOKED","MVR_PTS","CAR_AGE","URBANICITY","HOME_VAL","INCOME","BLUEBOOK","OLDCLAIM"
+0,28,4,16,"No","Yes","M","Bachelors","z_Blue Collar",30,"Commercial",6,"Minivan","no",2,"No",8,8,"Highly Urban/ Urban",226146,68394,2340,6013
+0,56,0,13,"No","z_No","M","z_High School","z_Blue Collar",61,"Commercial",1,"Minivan","yes",2,"No",10,5,"Highly Urban/ Urban",0,76638,14060,24930
+0,63,0,15,"No","z_No","M","z_High School","z_Blue Collar",22,"Commercial",1,"Minivan","no",3,"No",1,9,"Highly Urban/ Urban",0,42209,16850,7199
+0,27,4,15,"No","Yes","z_F","z_High School","z_Blue Collar",58,"Commercial",1,"Minivan","no",2,"No",1,7,"Highly Urban/ Urban",122298,31168,7320,7582
+2,39,2,13,"No","Yes","M","Bachelors","Professional",50,"Private",10,"Minivan","yes",2,"No",4,1,"Highly Urban/ Urban",301965,92000,7730,8091
+0,41,0,9,"No","z_No","M","<High School","z_Blue Collar",50,"Private",6,"Minivan","no",4,"No",4,1,"Highly Urban/ Urban",0,18939,5600,5171
+0,54,0,14,"No","Yes","M","Bachelors","Clerical",28,"Private",1,"Minivan","yes",2,"No",4,11,"Highly Urban/ Urban",177896,38768,1500,6521
+0,45,0,9,"No","z_No","M","z_High School","z_Blue Collar",43,"Commercial",1,"Minivan","yes",2,"No",5,6,"Highly Urban/ Urban",221350,72702,13270,4740
+0,51,0,14,"No","Yes","M","Masters","Professional",28,"Private",11,"Minivan","yes",3,"No",0,19,"Highly Urban/ Urban",307718,101534,32910,20587
+0,51,0,13,"No","Yes","z_F","Bachelors","z_Blue Collar",37,"Commercial",6,"Minivan","no",3,"No",0,1,"Highly Urban/ Urban",269190,62463,19370,1107
+0,47,0,10,"No","z_No","M","<High School","z_Blue Collar",24,"Commercial",10,"Minivan","yes",1,"Yes",5,1,"z_Highly Rural/ Rural",0,57607,12970,8917
+0,43,2,14,"No","Yes","z_F","Masters","Lawyer",30,"Private",11,"Minivan","no",1,"Yes",8,15,"Highly Urban/ Urban",378960,141177,15620,17232
+0,60,4,16,"No","Yes","M","<High School","Clerical",17,"Private",1,"Minivan","no",2,"Yes",5,5,"z_Highly Rural/ Rural",151602,28634,5730,30480
+0,42,0,11,"No","z_No","M","Bachelors","z_Blue Collar",5,"Commercial",1,"Minivan","yes",2,"Yes",2,10,"Highly Urban/ Urban",0,74223,13120,35061
+0,33,4,0,"Yes","z_No","M","z_High School","Student",14,"Commercial",1,"Minivan","yes",2,"Yes",4,5,"Highly Urban/ Urban",0,0,12470,10794
+0,49,0,8,"No","Yes","M","z_High School","z_Blue Collar",44,"Commercial",7,"Minivan","no",2,"Yes",5,1,"Highly Urban/ Urban",225768,76399,14040,32239
+0,37,0,9,"No","z_No","M","PhD","Lawyer",11,"Private",1,"Minivan","yes",4,"Yes",4,9,"Highly Urban/ Urban",0,26816,15090,30605
+1,42,1,7,"No","Yes","M","z_High School","Manager",39,"Private",1,"Minivan","yes",2,"Yes",7,9,"Highly Urban/ Urban",348968,130882,14590,42820
+0,53,0,15,"No","Yes","z_F","Masters","Manager",63,"Private",1,"Minivan","no",4,"Yes",1,10,"Highly Urban/ Urban",332538,129978,25350,25777
+1,45,2,17,"No","Yes","z_F","Masters","Lawyer",46,"Private",4,"Minivan","no",3,"Yes",3,10,"Highly Urban/ Urban",288071,111268,21680,10366
+0,51,0,14,"No","z_No","M","Bachelors","Manager",10,"Commercial",4,"Panel Truck","no",2,"No",5,2,"Highly Urban/ Urban",0,65711,28350,9591
+0,43,0,11,"No","z_No","M","Masters","Professional",8,"Commercial",16,"Panel Truck","no",1,"No",0,1,"Highly Urban/ Urban",314433,132561,30150,12294
+0,44,1,13,"No","Yes","z_F","z_High School","z_Blue Collar",28,"Commercial",4,"Panel Truck","no",1,"No",3,6,"Highly Urban/ Urban",191128,53483,30000,4705
+0,50,0,10,"No","Yes","M","z_High School","z_Blue Collar",41,"Commercial",13,"Panel Truck","yes",1,"No",2,5,"Highly Urban/ Urban",194332,60395,32720,4896
+0,46,0,12,"No","Yes","M","PhD","Manager",21,"Commercial",11,"Panel Truck","yes",1,"No",0,16,"Highly Urban/ Urban",498559,214653,37960,7327
+0,52,0,11,"No","Yes","M","Bachelors","Manager",22,"Commercial",4,"Panel Truck","no",4,"No",4,14,"Highly Urban/ Urban",216655,81008,24830,11193
+0,34,1,13,"No","Yes","M","<High School","z_Blue Collar",57,"Commercial",1,"Panel Truck","yes",3,"No",5,7,"Highly Urban/ Urban",260567,95438,27730,19629
+2,39,3,10,"Yes","z_No","M","<High School","z_Blue Collar",22,"Commercial",4,"Panel Truck","no",3,"No",4,1,"z_Highly Rural/ Rural",0,46491,23550,1823
+0,41,0,9,"No","z_No","M","Bachelors","Professional",31,"Commercial",1,"Panel Truck","yes",1,"No",8,8,"Highly Urban/ Urban",0,74706,26530,2884
+0,49,0,11,"No","Yes","M","z_High School","z_Blue Collar",64,"Commercial",6,"Panel Truck","yes",3,"No",3,7,"Highly Urban/ Urban",208185,51371,23360,4963
+3,39,3,13,"No","Yes","M","Bachelors","z_Blue Collar",36,"Commercial",1,"Panel Truck","yes",2,"Yes",3,1,"Highly Urban/ Urban",349101,110251,38900,21033
+0,50,0,14,"No","Yes","M","Masters","Manager",15,"Commercial",6,"Panel Truck","no",3,"Yes",3,13,"Highly Urban/ Urban",274673,100094,44110,21533
+0,42,2,0,"Yes","z_No","M","<High School","Student",49,"Commercial",1,"Panel Truck","no",1,"Yes",0,7,"z_Highly Rural/ Rural",0,0,24600,48684
+0,53,0,0,"No","Yes","z_F","z_High School","Student",22,"Commercial",7,"Panel Truck","no",2,"Yes",2,4,"Highly Urban/ Urban",0,0,40100,27795
+0,48,0,13,"No","Yes","M","z_High School","Clerical",34,"Commercial",1,"Panel Truck","yes",4,"Yes",3,11,"Highly Urban/ Urban",168178,29626,30490,42332
+0,24,1,10,"No","Yes","M","z_High School","Student",23,"Commercial",7,"Panel Truck","yes",1,"Yes",11,5,"Highly Urban/ Urban",0,5427,24630,24546
+2,40,2,6,"No","Yes","M","Bachelors","Manager",31,"Commercial",1,"Panel Truck","yes",1,"Yes",5,11,"Highly Urban/ Urban",260592,80395,22770,14003
+0,43,0,9,"No","z_No","M","Bachelors","Professional",50,"Commercial",6,"Panel Truck","yes",2,"Yes",4,14,"Highly Urban/ Urban",0,101805,35240,34646
+0,49,0,13,"No","z_No","M","Bachelors","Professional",14,"Commercial",7,"Panel Truck","yes",1,"Yes",7,1,"Highly Urban/ Urban",271132,104691,30260,22813
+0,31,1,4,"No","Yes","M","Bachelors","Professional",30,"Commercial",6,"Panel Truck","no",3,"Yes",2,10,"Highly Urban/ Urban",363888,119331,29230,12636
+0,27,0,9,"No","z_No","z_F","Bachelors","z_Blue Collar",39,"Commercial",10,"Pickup","no",3,"No",3,13,"Highly Urban/ Urban",0,81474,25720,6985
+0,42,0,12,"No","Yes","M","Masters","Professional",31,"Private",7,"Pickup","yes",2,"No",6,18,"Highly Urban/ Urban",180206,47660,11940,974
+0,49,0,13,"No","Yes","M","<High School","Clerical",31,"Private",1,"Pickup","no",1,"No",3,1,"Highly Urban/ Urban",183206,28592,9260,2102
+0,46,0,9,"No","z_No","M","Bachelors","Manager",15,"Commercial",7,"Pickup","yes",2,"No",0,11,"Highly Urban/ Urban",211508,57049,11800,1437
+0,37,0,6,"No","Yes","M","<High School","z_Blue Collar",50,"Commercial",12,"Pickup","no",2,"No",1,5,"Highly Urban/ Urban",137554,16069,10530,1089
+0,24,2,12,"Yes","z_No","M","z_High School","Student",32,"Commercial",4,"Pickup","yes",4,"No",8,8,"Highly Urban/ Urban",0,11215,5020,1122
+0,42,1,10,"Yes","z_No","M","Masters","Lawyer",36,"Private",1,"Pickup","no",1,"No",2,12,"Highly Urban/ Urban",342728,134520,5700,2308
+0,50,0,11,"No","z_No","z_F","Masters","Lawyer",17,"Private",4,"Pickup","no",2,"No",7,11,"Highly Urban/ Urban",0,80241,14520,7628
+0,66,0,15,"No","Yes","M","Bachelors","Manager",40,"Private",6,"Pickup","no",2,"No",2,17,"Highly Urban/ Urban",200581,35095,25280,2596
+0,48,0,12,"No","Yes","M","z_High School","Clerical",42,"Commercial",1,"Pickup","no",3,"No",1,1,"Highly Urban/ Urban",146134,34669,8630,2499
+1,37,3,13,"No","Yes","M","Bachelors","Professional",47,"Private",1,"Pickup","yes",2,"Yes",3,1,"Highly Urban/ Urban",284853,91450,10650,27439
+0,35,3,13,"Yes","z_No","M","Bachelors","Clerical",5,"Commercial",11,"Pickup","no",2,"Yes",1,12,"Highly Urban/ Urban",138283,48386,9840,38832
+0,30,2,11,"No","Yes","M","z_High School","Student",5,"Commercial",10,"Pickup","no",3,"Yes",1,1,"Highly Urban/ Urban",95447,13490,5850,31401
+0,48,0,10,"No","z_No","M","Bachelors","Professional",13,"Commercial",1,"Pickup","no",2,"Yes",13,13,"z_Highly Rural/ Rural",170714,33422,11550,17831
+0,29,1,3,"Yes","z_No","M","z_High School","Clerical",20,"Private",4,"Pickup","yes",1,"Yes",4,1,"Highly Urban/ Urban",117426,17120,6970,26023
+0,58,0,16,"No","Yes","M","<High School","Student",23,"Commercial",1,"Pickup","no",3,"Yes",4,7,"Highly Urban/ Urban",0,6657,4790,37285
+0,58,0,6,"No","z_No","M","<High School","z_Blue Collar",27,"Commercial",1,"Pickup","yes",2,"Yes",0,7,"Highly Urban/ Urban",0,57454,7300,34123
+1,41,2,15,"No","Yes","z_F","Masters","Lawyer",23,"Private",7,"Pickup","no",2,"Yes",0,18,"Highly Urban/ Urban",306854,105563,27520,35585
+0,43,0,10,"No","z_No","M","<High School","z_Blue Collar",55,"Private",4,"Pickup","yes",2,"Yes",3,4,"Highly Urban/ Urban",0,72894,5800,22464
+0,54,0,13,"No","Yes","M","<High School","Clerical",63,"Private",1,"Pickup","yes",2,"Yes",5,1,"Highly Urban/ Urban",171275,33791,9730,41917
+1,42,1,10,"Yes","z_No","z_F","Masters","Lawyer",39,"Private",1,"Sports Car","no",1,"No",5,11,"Highly Urban/ Urban",0,73376,25590,7328
+0,36,0,9,"No","z_No","z_F","z_High School","z_Blue Collar",66,"Commercial",1,"Sports Car","no",1,"No",3,9,"z_Highly Rural/ Rural",0,51353,6710,3863
+0,46,0,12,"No","Yes","z_F","<High School","z_Blue Collar",29,"Private",1,"Sports Car","no",3,"No",2,1,"Highly Urban/ Urban",184819,45237,10620,3624
+0,51,0,12,"No","z_No","z_F","z_High School","z_Blue Collar",58,"Commercial",3,"Sports Car","no",3,"No",4,5,"Highly Urban/ Urban",0,67452,21600,4075
+1,40,1,7,"No","Yes","z_F","Bachelors","Professional",5,"Private",1,"Sports Car","no",3,"No",3,11,"Highly Urban/ Urban",178708,46337,13720,3598
+0,45,1,12,"Yes","z_No","z_F","z_High School","Clerical",47,"Private",1,"Sports Car","no",4,"No",3,7,"Highly Urban/ Urban",148826,37675,5270,3978
+0,44,0,12,"No","z_No","z_F","<High School","Student",37,"Private",6,"Sports Car","no",1,"No",6,1,"Highly Urban/ Urban",0,5069,5900,8026
+0,70,0,16,"No","Yes","z_F","z_High School","Professional",5,"Private",6,"Sports Car","no",4,"No",5,1,"Highly Urban/ Urban",214707,62304,24710,4346
+1,72,2,18,"No","Yes","z_F","<High School","Clerical",32,"Private",6,"Sports Car","no",1,"No",8,1,"Highly Urban/ Urban",162415,27625,18960,8571
+0,39,0,9,"No","z_No","z_F","z_High School","Clerical",47,"Private",7,"Sports Car","no",1,"No",3,1,"Highly Urban/ Urban",0,36330,14520,7191
+0,47,0,11,"No","z_No","z_F","<High School","Clerical",22,"Private",6,"Sports Car","no",2,"Yes",0,5,"Highly Urban/ Urban",126125,28163,4320,17368
+0,35,0,5,"No","Yes","z_F","Bachelors","Clerical",45,"Private",7,"Sports Car","no",1,"Yes",0,15,"Highly Urban/ Urban",181427,54922,18710,33276
+0,60,0,15,"No","Yes","M","PhD","Doctor",34,"Private",4,"Sports Car","yes",3,"Yes",0,14,"Highly Urban/ Urban",270631,76899,7900,45574
+0,47,0,10,"No","Yes","z_F","Bachelors","z_Blue Collar",53,"Private",1,"Sports Car","no",2,"Yes",0,6,"Highly Urban/ Urban",238237,78942,5900,20847
+0,48,0,13,"No","Yes","z_F","z_High School","Home Maker",28,"Private",1,"Sports Car","no",2,"Yes",5,1,"Highly Urban/ Urban",97939,7379,8940,39397
+0,47,0,0,"No","z_No","z_F","Bachelors","Home Maker",32,"Private",10,"Sports Car","no",2,"Yes",3,1,"Highly Urban/ Urban",84486,0,8140,41175
+1,45,2,14,"Yes","z_No","z_F","Bachelors","Student",44,"Commercial",1,"Sports Car","no",3,"Yes",2,12,"Highly Urban/ Urban",0,12106,7210,36236
+0,51,0,15,"No","Yes","z_F","Bachelors","Professional",42,"Commercial",4,"Sports Car","no",1,"Yes",1,6,"Highly Urban/ Urban",322934,109836,1500,42214
+0,47,0,10,"No","z_No","z_F","Bachelors","Professional",28,"Private",4,"Sports Car","no",2,"Yes",3,10,"Highly Urban/ Urban",0,28600,8830,31567
+0,31,2,14,"Yes","z_No","z_F","z_High School","Clerical",41,"Private",13,"Sports Car","no",2,"Yes",0,7,"Highly Urban/ Urban",0,30653,12930,35666
+0,48,0,13,"No","Yes","M","z_High School","z_Blue Collar",33,"Commercial",6,"Van","no",3,"No",4,1,"Highly Urban/ Urban",210206,57368,19960,8639
+0,50,0,12,"No","Yes","M","Masters","Manager",55,"Commercial",11,"Van","yes",2,"No",0,21,"Highly Urban/ Urban",308402,102191,19380,8730
+0,57,0,13,"No","Yes","M","Masters","Lawyer",23,"Private",1,"Van","no",2,"No",5,20,"Highly Urban/ Urban",298356,99985,17200,6739
+0,33,2,9,"Yes","z_No","M","Bachelors","Manager",19,"Commercial",4,"Van","yes",1,"No",0,12,"Highly Urban/ Urban",0,120322,16830,26318
+0,40,2,13,"No","Yes","z_F","z_High School","z_Blue Collar",39,"Commercial",1,"Van","no",1,"No",2,8,"Highly Urban/ Urban",193855,50537,28960,1613
+0,52,0,12,"No","Yes","M","PhD","Doctor",34,"Private",9,"Van","yes",2,"No",4,22,"Highly Urban/ Urban",258868,75774,20900,11407
+1,43,1,10,"No","Yes","M","Bachelors","Professional",38,"Private",6,"Van","no",1,"No",6,6,"Highly Urban/ Urban",260271,90610,21090,1942
+0,43,0,13,"No","Yes","M","z_High School","Clerical",11,"Private",1,"Van","yes",1,"No",5,8,"Highly Urban/ Urban",184254,43900,19760,6024
+0,61,0,12,"No","z_No","M","Masters","Lawyer",11,"Private",4,"Van","no",2,"No",3,15,"Highly Urban/ Urban",0,115440,41250,5650
+0,29,0,10,"No","z_No","M","Bachelors","Clerical",41,"Private",4,"Van","yes",2,"No",4,13,"Highly Urban/ Urban",0,74202,19300,7291
+0,54,0,13,"No","Yes","M","Bachelors","Manager",18,"Commercial",1,"Van","no",1,"Yes",6,4,"Highly Urban/ Urban",272725,81818,19660,24690
+0,50,0,12,"No","z_No","M","z_High School","z_Blue Collar",49,"Commercial",3,"Van","yes",2,"Yes",4,1,"Highly Urban/ Urban",266563,67399,19240,44641
+0,46,1,11,"Yes","z_No","M","Masters","Professional",33,"Commercial",10,"Van","no",1,"Yes",0,11,"Highly Urban/ Urban",0,137285,19830,35428
+1,45,2,8,"No","Yes","z_F","Masters","Professional",26,"Private",4,"Van","no",3,"Yes",1,8,"Highly Urban/ Urban",269688,75556,31350,1435
+1,45,1,14,"No","Yes","z_F","Masters","Lawyer",50,"Private",6,"Van","no",2,"Yes",0,13,"Highly Urban/ Urban",196368,63952,32340,27877
+0,55,0,11,"No","Yes","M","Bachelors","Manager",25,"Commercial",7,"Van","yes",2,"Yes",3,9,"Highly Urban/ Urban",180232,59162,17600,5028
+1,39,2,15,"Yes","z_No","M","Masters","Manager",6,"Commercial",6,"Van","yes",3,"Yes",0,12,"Highly Urban/ Urban",0,61370,21770,35577
+0,51,0,12,"No","z_No","M","Masters","Lawyer",37,"Private",5,"Van","no",2,"Yes",1,13,"Highly Urban/ Urban",0,103029,16900,37667
+0,54,0,7,"No","Yes","M","<High School","z_Blue Collar",18,"Commercial",6,"Van","no",1,"Yes",7,1,"Highly Urban/ Urban",195060,29567,20200,2913
+0,43,2,15,"Yes","z_No","M","PhD","Professional",27,"Commercial",1,"Van","yes",1,"Yes",4,17,"Highly Urban/ Urban",0,171529,18920,16619
+0,49,0,14,"No","Yes","z_F","Bachelors","Home Maker",62,"Private",17,"z_SUV","no",3,"No",5,5,"Highly Urban/ Urban",209440,76778,6400,4324
+0,45,1,11,"No","Yes","z_F","PhD","Lawyer",28,"Private",1,"z_SUV","no",3,"No",6,20,"Highly Urban/ Urban",509115,185836,10250,4307
+0,72,0,16,"No","Yes","M","Masters","Lawyer",20,"Private",6,"z_SUV","yes",2,"No",7,20,"Highly Urban/ Urban",249478,56313,14330,1391
+1,55,1,14,"No","Yes","z_F","Bachelors","Home Maker",32,"Private",1,"z_SUV","no",1,"No",3,8,"z_Highly Rural/ Rural",115540,17820,13340,6913
+0,33,2,12,"No","Yes","z_F","Bachelors","z_Blue Collar",31,"Commercial",1,"z_SUV","no",3,"No",3,9,"Highly Urban/ Urban",190139,70408,18850,2665
+0,28,3,11,"Yes","z_No","z_F","Bachelors","z_Blue Collar",37,"Commercial",1,"z_SUV","no",2,"No",0,8,"Highly Urban/ Urban",144443,57417,15640,7628
+0,33,3,13,"Yes","z_No","z_F","z_High School","Clerical",28,"Private",1,"z_SUV","no",2,"No",0,1,"Highly Urban/ Urban",153247,33285,10610,3739
+0,47,0,6,"No","z_No","z_F","z_High School","Clerical",19,"Private",1,"z_SUV","no",2,"No",8,1,"Highly Urban/ Urban",0,22358,19840,5341
+0,37,1,11,"No","Yes","z_F","Masters","Lawyer",46,"Private",4,"z_SUV","no",1,"No",0,17,"Highly Urban/ Urban",180901,55341,19220,12204
+0,32,1,8,"No","Yes","z_F","Bachelors","Professional",49,"Private",1,"z_SUV","no",1,"No",4,12,"Highly Urban/ Urban",232538,76002,12300,8223
+0,58,0,6,"No","z_No","z_F","PhD","Doctor",25,"Private",1,"z_SUV","no",4,"Yes",1,17,"Highly Urban/ Urban",366424,123288,7000,50111
+0,58,0,14,"No","z_No","z_F","<High School","Student",53,"Private",6,"z_SUV","no",1,"Yes",0,1,"Highly Urban/ Urban",0,2724,15220,20511
+0,46,0,13,"No","z_No","z_F","Bachelors","z_Blue Collar",18,"Commercial",1,"z_SUV","no",2,"Yes",0,13,"Highly Urban/ Urban",0,45100,10610,37157
+1,42,1,10,"Yes","z_No","z_F","Masters","Lawyer",9,"Private",6,"z_SUV","no",1,"Yes",1,12,"Highly Urban/ Urban",0,58489,11550,43863
+0,48,0,0,"No","z_No","z_F","Bachelors","Home Maker",51,"Private",1,"z_SUV","no",1,"Yes",7,11,"Highly Urban/ Urban",137446,0,17630,35519
+1,41,2,13,"Yes","z_No","z_F","Masters","Lawyer",35,"Private",6,"z_SUV","no",2,"Yes",6,17,"Highly Urban/ Urban",298205,111014,1500,20972
+0,44,0,12,"No","Yes","z_F","Masters","Lawyer",53,"Private",4,"z_SUV","no",2,"Yes",0,7,"Highly Urban/ Urban",285242,97624,15660,31213
+0,53,0,12,"No","Yes","z_F","<High School","Clerical",25,"Private",4,"z_SUV","no",1,"Yes",0,1,"Highly Urban/ Urban",213856,25698,9370,37412
+2,37,3,0,"No","Yes","z_F","z_High School","Student",38,"Commercial",6,"z_SUV","no",3,"Yes",4,6,"z_Highly Rural/ Rural",0,0,1500,17372
+0,47,0,14,"No","z_No","z_F","z_High School","z_Blue Collar",50,"Commercial",1,"z_SUV","no",1,"Yes",2,1,"Highly Urban/ Urban",134741,19527,8150,23275
