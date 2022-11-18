@@ -1,0 +1,230 @@
+Date,MapleSpecies,Latitude,Longitude,Shading,Circumference,Breaking_leaf_buds,Leaves_fully_unfolded,Tree_flowering
+3/5/2016,Sugar Maple,44.611459,-75.16959,Open,42,no,no,no
+4/5/2016,Sugar Maple,44.61138,-75.169582,Partially Shaded,35,no,no,no
+4/5/2016,Red Maple,44.931608,74.866565,Partially Shaded,84,yes,no,no
+4/5/2016,Norway Maple,44.931071,74.866797,Open,60,no,no,no
+4/5/2016,Norway Maple,44.931699,74.866865,Open,30,no,no,no
+4/5/2016,Norway Maple,44.931289,74.866899,Open,69.5,no,no,no
+4/5/2016,Red Maple,44.931081,74.867121,Partially Shaded,36,no,no,no
+4/5/2016,Red Maple,44.93105,74.867313,Partially Shaded,73,no,no,no
+4/15/2016,Sugar Maple,44.611458,-76.169593,Shaded,7,yes,no,no
+4/15/2016,Sugar Maple,44.611455,-76.169544,Partially Shaded,9,no,no,no
+4/15/2016,Sugar Maple,44.6,-75.2,Partially Shaded,25,no,no,no
+4/15/2016,Sugar Maple,44.608917,-75.171201,Partially Shaded,27,no,no,no
+4/15/2016,Sugar Maple,44.608917,-75.171201,Partially Shaded,27,no,no,yes
+4/15/2016,Sugar Maple,44.610277,-75.169802,Open,46.75,no,no,no
+4/15/2016,Sugar Maple,44.610247,-75.169787,Partially Shaded,24,no,no,no
+4/15/2016,Sugar Maple,44.611459,-75.16959,Open,42,no,no,no
+4/15/2016,Sugar Maple,44.611433,-75.169584,Open,17,no,no,no
+4/15/2016,Sugar Maple,44.611465,-75.169554,Partially Shaded,21,no,no,no
+4/15/2016,Sugar Maple,44.611451,-75.169546,Partially Shaded,35,no,no,no
+4/15/2016,Sugar Maple,44.611443,-75.16954,Partially Shaded,25,no,no,no
+4/15/2016,Sugar Maple,44.61136,-75.16954,Partially Shaded,37.5,no,no,no
+4/15/2016,Sugar Maple,44.611452,-75.169535,Partially Shaded,50,no,no,no
+4/15/2016,Sugar Maple,44.611452,-75.169535,Partially Shaded,32,no,no,no
+4/15/2016,Sugar Maple,44.611434,-75.169531,Partially Shaded,39,yes,no,no
+4/15/2016,Sugar Maple,44.611477,-75.169512,Partially Shaded,31.5,no,no,no
+4/15/2016,Sugar Maple,44.611412,-75.169456,Partially Shaded,4,no,no,no
+4/15/2016,Sugar Maple,44.611188,-75.169001,Partially Shaded,14,no,no,no
+4/15/2016,Silver Maple,44.605511,-75.167999,Open,70,yes,no,no
+4/15/2016,Norway Maple,44.605998,-75.167856,Open,72,no,no,no
+4/15/2016,Sugar Maple,44.575389,-75.1361,Partially Shaded,24,no,no,no
+4/15/2016,Sugar Maple,44.61078,-75.116568,Open,43,no,no,no
+4/15/2016,Sugar Maple,44.61029,-75.070224,Partially Shaded,22,no,no,no
+4/15/2016,Sugar Maple,44.611236,-7.169032,Shaded,4,no,no,no
+4/15/2016,Sugar Maple,44.36412,73.10104,Partially Shaded,45,yes,no,no
+4/15/2016,Red Maple,44.931018,74.867305,Open,65,yes,no,no
+4/15/2016,Norway Maple,44.606267,75.167331,Open,50.5,no,no,no
+4/15/2016,Sugar Maple,44.611202,75.169027,Shaded,12,no,no,no
+4/15/2016,Sugar Maple,44.611236,75.169032,Partially Shaded,38,no,no,no
+4/15/2016,Sugar Maple,44.611952,75.169535,Partially Shaded,34,no,no,no
+4/15/2016,Sugar Maple,44.611735,75.169559,Partially Shaded,23,yes,no,no
+4/15/2016,Sugar Maple,44.611151,75.169559,Shaded,26,no,no,no
+4/16/2016,Sugar Maple,44.611452,75.169535,Partially Shaded,22,no,no,no
+4/19/2016,Sugar Maple,44.59559,-75.164331,Partially Shaded,25,yes,no,no
+4/19/2016,Red Maple,44.931608,74.866565,Partially Shaded,84,yes,no,no
+4/19/2016,Red Maple,44.931166,74.867122,Open,83,yes,no,no
+4/19/2016,Red Maple,44.931018,74.867305,Open,65,yes,no,no
+4/19/2016,Red Maple,44.93105,74.867313,Partially Shaded,73,yes,yes,yes
+4/20/2016,Sugar Maple,44.594168,-75.149756,Partially Shaded,36,no,no,no
+4/20/2016,Sugar Maple,44.358035,-74.947101,Partially Shaded,33,yes,no,no
+4/20/2016,Silver Maple,44.557825,-74.946902,Partially Shaded,31,no,no,no
+4/20/2016,Silver Maple,44.557572,-74.946624,Partially Shaded,30,no,no,no
+4/20/2016,Silver Maple,44.557534,-74.946267,Open,21,yes,no,no
+4/20/2016,Silver Maple,44.557263,-74.945775,Open,20,no,no,no
+4/20/2016,Silver Maple,44.557125,-74.945713,Open,16,yes,no,no
+4/20/2016,Sugar Maple,44.55729,74.945717,Open,32,no,no,no
+4/20/2016,Silver Maple,44.5581,74.9475,Partially Shaded,32,no,no,no
+4/20/2016,Red Maple,44.557648,79.946717,Open,35,yes,no,yes
+4/21/2016,Sugar Maple,44611477,-75169512,Open,33,no,no,no
+4/21/2016,Sugar Maple,44.575389,-78.1361,Partially Shaded,25,no,no,no
+4/21/2016,Sugar Maple,44.61138,-76.16982,Open,33,no,no,no
+4/21/2016,Sugar Maple,44.608917,-75.171201,Partially Shaded,27,no,no,no
+4/21/2016,Sugar Maple,44.61029,-75.170224,Partially Shaded,51,no,no,no
+4/21/2016,Sugar Maple,44.610277,-75.169802,Open,54,no,no,no
+4/21/2016,Sugar Maple,44.610247,-75.169787,Partially Shaded,24,no,no,no
+4/21/2016,Sugar Maple,44.610527,-75.169689,Partially Shaded,31,no,no,no
+4/21/2016,Sugar Maple,44.610246,-75.169679,Shaded,32,no,no,no
+4/21/2016,Sugar Maple,44.611458,-75.169593,Shaded,8,yes,no,no
+4/21/2016,Sugar Maple,44.611459,-75.16959,Open,42,yes,no,no
+4/21/2016,Sugar Maple,44.611433,-75.169584,Open,17,no,no,no
+4/21/2016,Sugar Maple,44.61138,-75.169582,Partially Shaded,48.5,no,no,no
+4/21/2016,Sugar Maple,44.61138,-75.169582,Open,48,no,no,no
+4/21/2016,Sugar Maple,44.61138,-75.169582,Partially Shaded,34,no,no,no
+4/21/2016,Sugar Maple,44.61138,-75.169582,Partially Shaded,27,no,no,no
+4/21/2016,Sugar Maple,44.611735,-75.169559,Partially Shaded,23,yes,no,no
+4/21/2016,Sugar Maple,44.611465,-75.169554,Partially Shaded,21,yes,no,no
+4/21/2016,Sugar Maple,44.611451,-75.169546,Partially Shaded,35,no,no,no
+4/21/2016,Sugar Maple,44.611455,-75.169544,Partially Shaded,9,yes,no,no
+4/21/2016,Sugar Maple,44.611443,-75.16954,Open,25,no,no,no
+4/21/2016,Sugar Maple,44.61136,-75.16954,Partially Shaded,37.5,no,no,no
+4/21/2016,Sugar Maple,44.611952,-75.169535,Partially Shaded,34,no,no,no
+4/21/2016,Sugar Maple,44.611412,-75.169456,Partially Shaded,4,no,no,no
+4/21/2016,Sugar Maple,44.611452,-75.16935,Partially Shaded,54,no,no,no
+4/21/2016,Sugar Maple,44.611187,-75.169034,Partially Shaded,33,no,no,no
+4/21/2016,Sugar Maple,44.611188,-75.169001,Partially Shaded,14,no,no,no
+4/21/2016,Silver Maple,44.605511,-75.167999,Open,70,yes,no,no
+4/21/2016,Norway Maple,44.605998,-75.167856,Open,72,yes,no,no
+4/21/2016,Norway Maple,44.606267,-75.167331,Open,46.5,no,no,no
+4/21/2016,Sugar Maple,44.611236,-75.162032,Shaded,4,no,no,no
+4/21/2016,Sugar Maple,44.344,-75.157,Partially Shaded,24,no,no,no
+4/21/2016,Sugar Maple,44.594168,-75.149756,Partially Shaded,43,no,no,no
+4/21/2016,Sugar Maple,44.594168,-75.149756,Partially Shaded,19,no,no,no
+4/21/2016,Sugar Maple,44.61078,-75.1169508,Open,43,no,no,no
+4/21/2016,Sugar Maple,44.6,-75.1,Partially Shaded,52,no,no,no
+4/21/2016,Sugar Maple,44.611434,70.169531,Partially Shaded,39,yes,no,no
+4/21/2016,Sugar Maple,45.36412,75.10104,Partially Shaded,45,no,no,no
+4/21/2016,Sugar Maple,44.611203,75.169027,Shaded,12,no,no,no
+4/21/2016,Sugar Maple,44.611236,75.169032,Partially Shaded,38,no,no,no
+4/21/2016,Sugar Maple,44.611452,75.169535,Partially Shaded,22,no,no,no
+4/21/2016,Sugar Maple,44.611451,75.169559,Partially Shaded,26,no,no,no
+4/21/2016,Sugar Maple,44.611451,75.169559,Partially Shaded,26,no,no,no
+4/21/2016,Sugar Maple,44.61138,75.169582,Partially Shaded,46,no,no,no
+4/21/2016,Sugar Maple,44.6146,75.169603,Shaded,17.25,no,no,no
+4/28/2016,Silver Maple,44.557825,-74.946902,Partially Shaded,31,yes,no,no
+4/28/2016,Silver Maple,44.557572,-74.946624,Open,16,yes,no,no
+4/28/2016,Silver Maple,44.557534,-74.946267,Open,21,yes,no,no
+4/28/2016,Silver Maple,44.557263,-74.945775,Open,20,yes,no,no
+4/28/2016,Red Maple,44,74,Shaded,33,no,no,yes
+4/28/2016,Sugar Maple,44.55729,74.945717,Open,32,no,no,no
+4/28/2016,Red Maple,45.557648,74.946717,Open,35,yes,no,yes
+4/28/2016,Sugar Maple,44.358035,74.947101,Partially Shaded,23,yes,no,no
+4/28/2016,Silver Maple,44.5581,74.9475,Partially Shaded,32,no,no,no
+4/28/2016,Silver Maple,44.557804,74.956881,Open,31,yes,no,no
+5/5/2016,Sugar Maple,44.61029,-77.070224,Partially Shaded,22,yes,no,no
+5/5/2016,Sugar Maple,44.610527,-75.19689,Shaded,31,yes,no,no
+5/5/2016,Sugar Maple,44.608917,-75.171201,Partially Shaded,27,yes,no,no
+5/5/2016,Sugar Maple,44.610247,-75.169787,Partially Shaded,21,no,no,no
+5/5/2016,Sugar Maple,44.610246,-75.169679,Partially Shaded,32,yes,no,no
+5/5/2016,Sugar Maple,44.611458,-75.169593,Shaded,8,yes,no,no
+5/5/2016,Sugar Maple,44.611433,-75.169584,Open,12,yes,no,yes
+5/5/2016,Sugar Maple,44.61138,-75.169582,Partially Shaded,48.5,no,no,no
+5/5/2016,Sugar Maple,44.61138,-75.169582,Partially Shaded,34,no,no,no
+5/5/2016,Sugar Maple,44.61138,-75.169582,Partially Shaded,27,no,no,no
+5/5/2016,Sugar Maple,44.611735,-75.169559,Partially Shaded,18,no,no,no
+5/5/2016,Sugar Maple,44.611451,-75.169559,Open,26,no,no,no
+5/5/2016,Sugar Maple,44.611451,-75.169559,Partially Shaded,26,yes,yes,yes
+5/5/2016,Sugar Maple,44.611465,-75.169554,Partially Shaded,53,yes,no,no
+5/5/2016,Sugar Maple,44.611465,-75.169554,Partially Shaded,21,yes,no,no
+5/5/2016,Sugar Maple,44.611451,-75.169546,Partially Shaded,35,yes,no,no
+5/5/2016,Sugar Maple,44.61136,-75.16954,Partially Shaded,37.5,yes,no,no
+5/5/2016,Sugar Maple,44.611452,-75.169535,Partially Shaded,24,no,no,no
+5/5/2016,Sugar Maple,44.611477,-75.169512,Partially Shaded,33,yes,no,no
+5/5/2016,Sugar Maple,44.611412,-75.169456,Partially Shaded,4,yes,no,no
+5/5/2016,Sugar Maple,44.611187,-75.169034,Partially Shaded,34.5,no,no,no
+5/5/2016,Sugar Maple,44.611236,-75.169032,Shaded,4,yes,no,no
+5/5/2016,Silver Maple,44.605511,-75.1679999,Open,70,yes,yes,no
+5/5/2016,Norway Maple,44.605998,-75.167856,Open,72,yes,yes,no
+5/5/2016,Norway Maple,44.606267,-75.167331,Open,50.5,yes,no,no
+5/5/2016,Sugar Maple,44.61,-75.16,Partially Shaded,25,yes,no,no
+5/5/2016,Sugar Maple,44.344,-75.157,Partially Shaded,24.125,yes,no,no
+5/5/2016,Sugar Maple,44.575389,-75.1361,Partially Shaded,24,yes,no,no
+5/5/2016,Sugar Maple,44.61078,-75.1169568,Open,42,yes,no,no
+5/5/2016,Sugar Maple,44.36412,-75.10104,Partially Shaded,45,yes,no,no
+5/5/2016,Sugar Maple,44.611452,-45.169535,Partially Shaded,50,no,no,no
+5/5/2016,Sugar Maple,44.611203,75.169027,Shaded,12,yes,no,no
+5/5/2016,Sugar Maple,44.611452,75.169535,Partially Shaded,22,yes,no,no
+5/5/2016,Sugar Maple,44.61138,75.269582,Partially Shaded,46,yes,no,no
+5/6/2016,Sugar Maple,44.610277,-75.169802,Open,46.75,yes,no,no
+5/7/2016,Silver Maple,44.557263,-74.945775,Open,20,yes,no,yes
+5/9/2016,Silver Maple,44.5581,-89.9475,Partially Shaded,32,yes,no,no
+5/9/2016,Sugar Maple,44.558035,-74.947101,Partially Shaded,33,yes,no,no
+5/9/2016,Silver Maple,44.557825,-74.946902,Partially Shaded,31,yes,no,no
+5/9/2016,Silver Maple,44.557572,-74.946624,Partially Shaded,30,yes,yes,yes
+5/9/2016,Silver Maple,44.5572,-74.946624,Open,16,yes,no,yes
+5/9/2016,Silver Maple,44.557534,-74.946267,Open,21,yes,no,yes
+5/9/2016,Sugar Maple,44.55729,-74.945717,Open,32,yes,no,no
+5/9/2016,Red Maple,44,56,Shaded,33,yes,no,yes
+5/9/2016,Red Maple,44.557648,74.846717,Open,35,no,no,no
+5/9/2016,Sugar Maple,443327.8,74564540.8,Partially Shaded,52,yes,yes,no
+5/10/2016,Sugar Maple,41.60486,75.168203,Open,63,yes,yes,no
+5/13/2016,Silver Maple,44.605511,-81.167999,Open,71,yes,yes,yes
+5/13/2016,Sugar Maple,44.611187,-80.169034,Shaded,33,yes,yes,no
+5/13/2016,Sugar Maple,44.611477,-76.169512,Partially Shaded,31.5,yes,yes,yes
+5/13/2016,Sugar Maple,44.6,-75.171201,Partially Shaded,27,yes,yes,no
+5/13/2016,Sugar Maple,44.610247,-75.169787,Partially Shaded,20,yes,no,no
+5/13/2016,Sugar Maple,44.610246,-75.169679,Partially Shaded,32,yes,yes,no
+5/13/2016,Sugar Maple,44.61138,-75.169582,Open,54,yes,yes,no
+5/13/2016,Sugar Maple,44.61138,-75.169582,Partially Shaded,27,yes,yes,no
+5/13/2016,Sugar Maple,45.611465,-75.169554,Partially Shaded,54,yes,no,no
+5/13/2016,Sugar Maple,44.611465,-75.169554,Partially Shaded,54,yes,yes,no
+5/13/2016,Sugar Maple,44.61136,-75.16954,Partially Shaded,37.5,yes,yes,no
+5/13/2016,Sugar Maple,44.611952,-75.169535,Partially Shaded,54,yes,yes,no
+5/13/2016,Sugar Maple,44.611452,-75.169535,Shaded,50,yes,yes,no
+5/13/2016,Sugar Maple,44.611452,-75.169535,Partially Shaded,32,yes,yes,yes
+5/13/2016,Sugar Maple,44.6111,-75.169001,Partially Shaded,14,no,no,no
+5/13/2016,Norway Maple,44.605998,-75.167856,Open,72,yes,yes,yes
+5/13/2016,Sugar Maple,44.344,-75.157,Partially Shaded,24.125,yes,yes,no
+5/13/2016,Sugar Maple,44.594168,-75.149756,Partially Shaded,35,yes,yes,no
+5/13/2016,Sugar Maple,44.575589,-75.1361,Partially Shaded,24,yes,yes,no
+5/13/2016,Sugar Maple,45.6,-75.1,Partially Shaded,52,yes,yes,no
+5/13/2016,Sugar Maple,44.611236,71.169032,Partially Shaded,35,no,yes,no
+5/13/2016,Sugar Maple,44.611452,72.169535,Partially Shaded,22,yes,yes,no
+5/13/2016,Sugar Maple,44.61138,75.169582,Partially Shaded,46,yes,yes,no
+5/13/2016,Sugar Maple,44.61146,75.169603,Partially Shaded,17,yes,no,yes
+5/13/2016,Sugar Maple,44.610277,75.169802,Partially Shaded,46.75,no,yes,no
+5/20/2016,Silver Maple,44.557572,-91.9466,Partially Shaded,30,yes,yes,no
+5/20/2016,Silver Maple,44.557825,-74.9946902,Partially Shaded,31,yes,yes,no
+5/20/2016,Sugar Maple,44.358035,-74.947101,Partially Shaded,33,yes,yes,yes
+5/20/2016,Silver Maple,44.557572,-74.946624,Open,16,yes,yes,no
+5/20/2016,Silver Maple,44.557534,-74.946267,Open,21,yes,yes,no
+5/20/2016,Silver Maple,44.557263,-74.945775,Open,20,yes,yes,no
+5/20/2016,Sugar Maple,44.55729,-74.945717,Open,32,yes,yes,no
+5/20/2016,Red Maple,44,74,Shaded,33,yes,yes,no
+5/20/2016,Red Maple,44.557648,74.946717,Open,35,yes,yes,no
+5/20/2016,Silver Maple,44.557804,74.946881,Open,31,yes,yes,no
+5/20/2016,Silver Maple,44.558,75.8475,Partially Shaded,32,yes,no,yes
+5/20/2016,Silver Maple,44.558,75.8475,Partially Shaded,32,yes,no,yes
+5/22/2016,Sugar Maple,44.594168,-75.149756,Shaded,8,yes,yes,no
+5/23/2016,Sugar Maple,44.594168,-78.149756,Open,42,no,yes,no
+5/23/2016,Norway Maple,44,-75.6,Open,50.5,yes,yes,no
+5/23/2016,Norway Maple,44,-75.6,Open,50.5,yes,yes,yes
+5/23/2016,Sugar Maple,44.610277,-75.169802,Open,46.75,yes,yes,no
+5/23/2016,Sugar Maple,44.610247,-75.169787,Partially Shaded,24,yes,yes,no
+5/23/2016,Sugar Maple,44.610527,-75.169689,Partially Shaded,31,yes,yes,no
+5/23/2016,Sugar Maple,44.610246,-75.169679,Shaded,32,yes,yes,no
+5/23/2016,Sugar Maple,42.611459,-75.16959,Open,42,yes,yes,no
+5/23/2016,Sugar Maple,44.611433,-75.169584,Partially Shaded,17,yes,yes,no
+5/23/2016,Sugar Maple,44.61138,-75.169582,Open,54,yes,yes,no
+5/23/2016,Sugar Maple,44.61138,-75.169582,Partially Shaded,48.5,yes,yes,no
+5/23/2016,Sugar Maple,44.61138,-75.169582,Partially Shaded,26,yes,yes,no
+5/23/2016,Sugar Maple,44.611735,-75.169559,Shaded,24,yes,yes,no
+5/23/2016,Sugar Maple,44.611465,-75.169554,Partially Shaded,54,yes,yes,no
+5/23/2016,Sugar Maple,44.611451,-75.169546,Partially Shaded,34,yes,yes,no
+5/23/2016,Sugar Maple,44.611455,-75.169544,Partially Shaded,9,yes,yes,no
+5/23/2016,Sugar Maple,44.611443,-75.16954,Partially Shaded,25,yes,yes,no
+5/23/2016,Sugar Maple,44.611952,-75.169535,Partially Shaded,54,yes,yes,yes
+5/23/2016,Sugar Maple,44.611452,-75.169535,Open,45,yes,yes,no
+5/23/2016,Sugar Maple,44.611452,-75.169535,Partially Shaded,32,yes,yes,yes
+5/23/2016,Sugar Maple,44.611434,-75.169531,Shaded,39,yes,yes,no
+5/23/2016,Sugar Maple,44.611477,-75.169512,Partially Shaded,31.5,yes,yes,yes
+5/23/2016,Sugar Maple,44.611412,-75.169456,Partially Shaded,4,yes,yes,no
+5/23/2016,Sugar Maple,44.61187,-75.169034,Shaded,34.5,yes,yes,no
+5/23/2016,Sugar Maple,44.611188,-75.169001,Partially Shaded,14,yes,yes,yes
+5/23/2016,Norway Maple,44.605998,-75.167856,Open,68,yes,yes,yes
+5/23/2016,Sugar Maple,44.61138,-75.165982,Partially Shaded,34,yes,yes,no
+5/23/2016,Sugar Maple,44.61,-75.16,Partially Shaded,52,yes,yes,no
+5/23/2016,Sugar Maple,44.344,-75.157,Partially Shaded,24.125,yes,yes,no
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
